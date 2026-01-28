@@ -1,5 +1,4 @@
-<img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/352702b2-d4ca-4720-8461-a75636d5b287" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ## Hi! It's Moe 👋
 
 - 😁 I’m a CS student and a software engineer 
